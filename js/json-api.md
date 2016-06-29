@@ -4,6 +4,6 @@ A specification for building apis in JSON
 
 Works well with Ember Data
 
- ## Implementations
+## Implementations
 
  - [Fortune.js](http://fortunejs.com/)
