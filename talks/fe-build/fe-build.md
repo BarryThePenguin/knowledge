@@ -1,6 +1,6 @@
 autoscale: true
 
-![fit](all-the-things.png)
+![fit](img/all-the-things.png)
 
 # [fit] `fe-build`
 
@@ -39,7 +39,7 @@ Twitter and GitHub as Barry The Penguin
 
 ---
 
-![original](one-tool.jpg)
+![original](img/one-tool.jpg)
 
 # [fit] One Tool to rule them all
 
@@ -52,7 +52,7 @@ a single tool that does everything?
 
 ---
 
-![original](buzz.jpg)
+![original](img/buzz.jpg)
 
 # [fit] Opinions — Opinions everywhere
 
@@ -153,13 +153,13 @@ there is a lot going on
 
 ---
 
-![inline 50](babel.png) ![inline](browsersync.png) ![inline](browserify.png) ![inline](chai.png)
+![inline 50](img/babel.png) ![inline](img/browsersync.png) ![inline](img/browserify.png) ![inline](img/chai.png)
 
-![inline](chalk.png) ![inline](eslint.png) ![inline](airbnb.png) ![inline](flow.png)
+![inline](img/chalk.png) ![inline](img/eslint.png) ![inline](img/airbnb.png) ![inline](img/flow.png)
 
-![inline](gulp.png) ![inline](istanbul.png) ![inline](mocha.png) ![inline](prettier.png)
+![inline](img/gulp.png) ![inline](img/istanbul.png) ![inline](img/mocha.png) ![inline](img/prettier.png)
 
-![inline](pino.png) ![inline](react.png) ![inline](remark.png) ![inline](sass.png) ![inline](sinon.png)
+![inline](img/pino.png) ![inline](img/react.png) ![inline](img/remark.png) ![inline](img/sass.png) ![inline](img/sinon.png)
 
 ^ these are a bunch of tools that
 are integrated into fe-build
@@ -611,7 +611,7 @@ global.chai.use(require('dirty-chai'));
 
 Analyse `browserify` bundles with `disc` [^4]
 
-![left](disc.png)
+![left](img/disc.png)
 
 [^4]: Hugh Kennedy - https://github.com/hughsk/disc
 
@@ -628,7 +628,7 @@ Inspiration taken from `siddharthkp/bundlesize` [^5]
 
 ---
 
-![inline](report.png)
+![inline](img/report.png)
 
 ---
 
